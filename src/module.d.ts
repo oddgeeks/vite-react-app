@@ -1,0 +1,1 @@
+declare module 'vite_remix_cloudflare_app/*' {}
